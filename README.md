@@ -1,0 +1,1 @@
+# vagrant-jenkins-nexus-sonar
