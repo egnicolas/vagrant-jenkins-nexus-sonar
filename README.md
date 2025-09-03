@@ -1,4 +1,4 @@
-# 🚀 CI/CD Infrastructure with Jenkins, Nexus, and SonarQube (ARM-Optimized)
+# 🚀 CI Infrastructure with Jenkins, Nexus, and SonarQube (ARM-Optimized)
 
 [![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)  [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)  [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)  [![Nexus](https://img.shields.io/badge/Nexus_Repository-000000?style=flat&logo=sonatype&logoColor=white)](https://www.sonatype.com/)  
 
