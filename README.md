@@ -29,4 +29,7 @@ The infrastructure consists of **three virtual machines**, each provisioned via 
    - Provides static code analysis and quality gate integration.  
    - Complements Jenkins pipelines with quality reporting.  
 
+   ## 🖼️ Architecture Diagram
+
+   ![CI/CD Infrastructure Diagram](assets/ci.png)
 
